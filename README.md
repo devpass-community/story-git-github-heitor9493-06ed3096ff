@@ -1,4 +1,4 @@
 
 ## Contributors
 
-- Heitor Gonçalves Barbosa
+- Heitor Gonçalves
